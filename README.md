@@ -20,8 +20,6 @@
 
 ---
 
-<!-- 📸 SCREENSHOT: drop a hero shot of the lesson player or worlds map here.
-     Drag the image into the GitHub editor and it'll generate the markdown for you. -->
 <p align="center">
   <em>↓ <img width="1512" height="946" alt="Screenshot 2026-06-04 at 6 39 36 PM" src="https://github.com/user-attachments/assets/c0ec1442-ca35-4973-bacc-1dca3176e5de" />
  ↓</em>
